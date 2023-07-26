@@ -22,3 +22,8 @@ AI Autopilot is an innovative deep learning project that utilizes computer visio
 
 ## Project Architecture:
 <img width="768" alt="Project Architectur" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/3386acae-3bb8-4ddf-84dd-b61e31b87f2b">
+
+### Convolutional Neural Network Model Architecture:
+<img width="557" alt="image" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/3e464d8f-cdc9-41da-923b-753a8fa70d45">
+
+

@@ -27,4 +27,10 @@ AI Autopilot is an innovative deep learning project that utilizes computer visio
 ### Convolutional Neural Network Model Architecture:
 <img width="557" alt="image" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/3e464d8f-cdc9-41da-923b-753a8fa70d45">
 
+## Notice:
+This code is solely intended for statistical analysis; it is in no way intended for use in any kind of application or testing.
+Under No circumstances should anyone ever operate a vehicle while using computer vision software that has been trained using this code, or any other type of homemade software for that matter. Even if you believe you know what you're doing, using your own self-driving software in a car is exceedingly risky. 
 
+## References:
+- This is a implementation of [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf), this document provides complete architecture of how this model should be done.
+- For Deep Learning, you can follow this book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Third Edition](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982).

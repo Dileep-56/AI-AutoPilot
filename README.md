@@ -11,7 +11,6 @@ AI Autopilot is an innovative deep learning project that utilizes computer visio
 
 ```bash
   git clone https://github.com/Dileep-56/AI-AutoPilot.git
-
 ```
 - Install the required dependencies:
 ```bash
@@ -20,3 +19,6 @@ AI Autopilot is an innovative deep learning project that utilizes computer visio
 - Download the dataset [here](https://www.kaggle.com/datasets/roydatascience/training-car/download?datasetVersionNumber=1) and place it in the data directory.
 - Run `model_training.py` file in src/components/model_training.py
 - Then specify the path of the images and path of the saved model in `evaluate_model.py` file in src/components/evaluate_model.py
+
+## Project Architecture:
+<img width="768" alt="Project Architectur" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/3386acae-3bb8-4ddf-84dd-b61e31b87f2b">

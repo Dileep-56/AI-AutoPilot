@@ -32,5 +32,5 @@ This code is solely intended for statistical analysis; it is in no way intended 
 Under No circumstances should anyone ever operate a vehicle while using computer vision software that has been trained using this code, or any other type of homemade software for that matter. Even if you believe you know what you're doing, using your own self-driving software in a car is exceedingly risky. 
 
 ## References:
-- This is a implementation of [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf), this document provides complete architecture of how this model should be done.
+- This is a implementation of [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf), this document provides complete architecture of how this model should be built.
 - For Deep Learning, you can follow this book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Third Edition](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982).
